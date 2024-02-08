@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper {
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.box {
+    height: 30%;
+    width: 30%;
+    background-color: white;
+}
